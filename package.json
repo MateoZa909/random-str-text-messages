@@ -1,0 +1,20 @@
+{
+  "name": "random-str-text-messages",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateoZa909/random-str-text-messages.git"
+  },
+  "keywords": [],
+  "author": "Mateo Bossa <matbo909@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
